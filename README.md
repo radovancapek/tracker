@@ -2,7 +2,7 @@
 
 ## Spuštění
 
-Stáhnout soubory .jar a .bat a spustit .bat
+Stáhnout soubory .mp4 .jar a .bat a spustit .bat
 
-odkaz na složku se soubory: https://drive.google.com/drive/folders/1yEXpVb-YWMnApwR3doOxpYXlyKnhcBlh?usp=sharing
+odkaz na složku se soubory .jar a .bat: https://drive.google.com/drive/folders/1yEXpVb-YWMnApwR3doOxpYXlyKnhcBlh?usp=sharing
 
